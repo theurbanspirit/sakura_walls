@@ -1,0 +1,24 @@
+{
+    "wallpapers" : [
+      {
+          "author": "Unsplash",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_1.jpeg",
+          "name": "Sakura 1"
+      },
+      {
+          "author": "Unsplash",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_2.jpeg",
+          "name": "Sakura 2"
+      },
+      {
+          "author": "Unsplash",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_3.jpeg",
+          "name": "Sakura 3"
+      },
+      {
+          "author": "MLV",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_4.jpeg",
+          "name": "Sakura 4"
+      }
+    ]
+}
