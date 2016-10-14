@@ -11,11 +11,6 @@
           "name": "Sakura 2"
       },
       {
-          "author": "Me",
-          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_8.jpeg",
-          "name": "Sakura 8"
-      },
-      {
           "author": "Unsplash",
           "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_3.jpeg",
           "name": "Sakura 3"
@@ -27,22 +22,27 @@
       },
       {
           "author": "Me",
-          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_5.jpeg",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_5.jpg",
           "name": "Sakura 5"
       },
       {
           "author": "Me",
-          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_6.jpeg",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_6.jpg",
           "name": "Sakura 6"
       },
       {
           "author": "Me",
-          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_7.jpeg",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_7.jpg",
           "name": "Sakura 7"
-      },   
+      }, 
       {
           "author": "Me",
-          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_9.jpeg",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_8.jpg",
+          "name": "Sakura 8"
+      },  
+      {
+          "author": "Me",
+          "url": "https://raw.githubusercontent.com/theurbanspirit/sakura_walls/master/sakura_9.jpg",
           "name": "Sakura 9"
       }
     ]
